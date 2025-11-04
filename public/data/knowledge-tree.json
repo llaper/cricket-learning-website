@@ -1,0 +1,2294 @@
+{
+  "categories": [
+    {
+      "id": "basic-knowledge",
+      "title": "基础知识",
+      "type": "category",
+      "children": [
+        {
+          "id": "history-development",
+          "title": "历史与发展",
+          "type": "section",
+          "children": [
+            {
+              "id": "origin-evolution",
+              "title": "起源与演变",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "development-milestones",
+              "title": "发展里程碑",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "modern-cricket",
+              "title": "现代板球",
+              "type": "content",
+              "level": "intermediate"
+            },
+            {
+              "id": "cricket-in-china",
+              "title": "中国板球发展",
+              "type": "content",
+              "level": "beginner"
+            }
+          ]
+        },
+        {
+          "id": "basic-concepts",
+          "title": "基本概念和术语",
+          "type": "section",
+          "children": [
+            {
+              "id": "basic-concepts",
+              "title": "比赛基本概念",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "field-terms",
+              "title": "场地术语",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "equipment-terms",
+              "title": "装备术语",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "role-terms",
+              "title": "人员角色术语",
+              "type": "content",
+              "level": "beginner"
+            }
+          ]
+        },
+        {
+          "id": "match-formats",
+          "title": "比赛形式",
+          "type": "section",
+          "children": [
+            {
+              "id": "test-match",
+              "title": "测试赛(Test Match)",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "odi-match",
+              "title": "单日国际赛(ODI)",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "t20-match",
+              "title": "二十二十赛(T20)",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "other-formats",
+              "title": "其他比赛形式",
+              "type": "content",
+              "level": "intermediate"
+            }
+          ]
+        },
+        {
+          "id": "equipment-field",
+          "title": "装备和场地",
+          "type": "section",
+          "children": [
+            {
+              "id": "equipment-specs",
+              "title": "板球装备规格",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "field-standards",
+              "title": "场地尺寸和标准",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "stumps-wickets",
+              "title": "门柱和三柱门",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "protective-gear",
+              "title": "防护装备",
+              "type": "content",
+              "level": "beginner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rules-system",
+      "title": "规则系统",
+      "type": "category",
+      "children": [
+        {
+          "id": "match-rules",
+          "title": "比赛规则",
+          "type": "section",
+          "children": [
+            {
+              "id": "match-start-end",
+              "title": "比赛开始和结束",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "bowling-rules",
+              "title": "投球规则",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "batting-rules",
+              "title": "击球规则",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "fielding-rules",
+              "title": "守备规则",
+              "type": "content",
+              "level": "beginner"
+            }
+          ]
+        },
+        {
+          "id": "penalty-system",
+          "title": "判罚系统",
+          "type": "section",
+          "children": [
+            {
+              "id": "dismissal-types",
+              "title": "出局类型",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "penalty-procedures",
+              "title": "判罚程序",
+              "type": "content",
+              "level": "intermediate"
+            },
+            {
+              "id": "umpire-authority",
+              "title": "裁判权限",
+              "type": "content",
+              "level": "intermediate"
+            },
+            {
+              "id": "appeal-procedures",
+              "title": "申诉程序",
+              "type": "content",
+              "level": "intermediate"
+            }
+          ]
+        },
+        {
+          "id": "special-rules",
+          "title": "特殊规则",
+          "type": "section",
+          "children": [
+            {
+              "id": "dead-ball",
+              "title": "死球(Dead Ball)",
+              "type": "content",
+              "level": "intermediate"
+            },
+            {
+              "id": "wide-ball",
+              "title": "宽球(Wide Ball)",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "no-ball",
+              "title": "坏球(No Ball)",
+              "type": "content",
+              "level": "beginner"
+            },
+            {
+              "id": "powerplay",
+              "title": "限制局(Powerplay)",
+              "type": "content",
+              "level": "intermediate"
+            }
+          ]
+        },
+        {
+          "id": "controversial-cases",
+          "title": "争议案例",
+          "type": "section",
+          "children": [
+            {
+              "id": "classic-controversies",
+              "title": "经典争议判罚",
+              "type": "content",
+              "level": "advanced"
+            },
+            {
+              "id": "technology-assisted",
+              "title": "技术辅助判罚",
+              "type": "content",
+              "level": "advanced"
+            },
+            {
+              "id": "rule-interpretation",
+              "title": "规则解释争议",
+              "type": "content",
+              "level": "advanced"
+            },
+            {
+              "id": "fair-play-spirit",
+              "title": "公平竞赛精神",
+              "type": "content",
+              "level": "intermediate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technical-skills",
+      "title": "技术技能",
+      "type": "category",
+      "children": [
+        {
+          "id": "batting-techniques",
+          "title": "击球技术",
+          "type": "section",
+          "children": [
+            {
+              "id": "basic-batting",
+              "title": "基础击球技术",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "grip-method",
+                  "title": "握拍方法",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "stance-posture",
+                  "title": "站位姿势",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "batting-preparation",
+                  "title": "击球准备",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "balance-center",
+                  "title": "平衡和重心",
+                  "type": "content",
+                  "level": "beginner"
+                }
+              ]
+            },
+            {
+              "id": "footwork-movement",
+              "title": "步法移动",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "front-foot",
+                  "title": "前脚步法",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "back-foot",
+                  "title": "后脚步法",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "side-step",
+                  "title": "侧步移动",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "combination-steps",
+                  "title": "组合步法",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "basic-shots",
+              "title": "基础击球",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "drive",
+                  "title": "推击(Drive)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "cut",
+                  "title": "切球(Cut)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "pull",
+                  "title": "拉球(Pull)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "sweep",
+                  "title": "扫击(Sweep)",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "advanced-shots",
+              "title": "高级击球",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "lofted-drive",
+                  "title": "高吊推击(Lofted Drive)",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "reverse-sweep",
+                  "title": "反扫击(Reverse Sweep)",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "switch-hit",
+                  "title": "转换击球(Switch Hit)",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "innovative-shots",
+                  "title": "创新击球技术",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "defensive-techniques",
+              "title": "防守技术",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "blocking-technique",
+                  "title": "阻挡技术",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "pad-defense",
+                  "title": "护腿板防守",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "leaving-ball",
+                  "title": "让球技术",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "difficult-ball",
+                  "title": "困难球处理",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bowling-techniques",
+          "title": "投球技术",
+          "type": "section",
+          "children": [
+            {
+              "id": "fast-bowling",
+              "title": "快球投球",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "basic-fast",
+                  "title": "基础快球",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "outswinger",
+                  "title": "外摆球(Outswinger)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "inswinger",
+                  "title": "内摆球(Inswinger)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "bouncer",
+                  "title": "反弹球(Bouncer)",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "variation-balls",
+              "title": "变化快球",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "cutter",
+                  "title": "切球(Cutter)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "yorker",
+                  "title": "约克球(Yorker)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "slower-ball",
+                  "title": "慢球(Slower Ball)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "reverse-swing",
+                  "title": "反向摇摆(Reverse Swing)",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "spin-bowling",
+              "title": "旋转投球",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "leg-break",
+                  "title": "腿侧旋转(Leg Break)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "off-break",
+                  "title": "外侧旋转(Off Break)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "top-spinner",
+                  "title": "顶部旋转(Top Spinner)",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "slider",
+                  "title": "滑动球(Slider)",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "advanced-spin",
+              "title": "高级旋转",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "googly",
+                  "title": "转错方向球(Googly)",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "doosra",
+                  "title": "外侧版转错球(Doosra)",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "carrom-ball",
+                  "title": "印度式旋转(Carrom Ball)",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "arm-ball",
+                  "title": "手臂球(Arm Ball)",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fielding-techniques",
+          "title": "守备技术",
+          "type": "section",
+          "children": [
+            {
+              "id": "basic-fielding",
+              "title": "基础守备",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "catching",
+                  "title": "接球技术",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "throwing",
+                  "title": "传球技术",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "fielding-dismissal",
+                  "title": "触杀技术",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "fielding-position",
+                  "title": "防守站位",
+                  "type": "content",
+                  "level": "beginner"
+                }
+              ]
+            },
+            {
+              "id": "specialized-positions",
+              "title": "专门守备位置",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "close-fielding",
+                  "title": "近线守备",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "outfielding",
+                  "title": "外线守备",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "wicket-keeper",
+                  "title": "守门员",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "slips",
+                  "title": "滑行动作(Slips)",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "advanced-fielding",
+              "title": "高级守备",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "quick-reaction",
+                  "title": "快速反应守备",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "boundary-defense",
+                  "title": "边界防守",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "team-coordination",
+                  "title": "团队配合守备",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "creative-fielding",
+                  "title": "创造性守备",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "running-scoring",
+          "title": "跑动和跑分",
+          "type": "section",
+          "children": [
+            {
+              "id": "basic-running",
+              "title": "基础跑动",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "starting-run",
+                  "title": "启动跑动",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "turning-run",
+                  "title": "转向跑动",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "sprint-run",
+                  "title": "冲刺跑动",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "return-run",
+                  "title": "返回跑动",
+                  "type": "content",
+                  "level": "beginner"
+                }
+              ]
+            },
+            {
+              "id": "scoring-strategy",
+              "title": "跑分策略",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "single-strategy",
+                  "title": "单跑策略",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "double-coordination",
+                  "title": "双跑配合",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "triple-opportunity",
+                  "title": "三跑机会",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "creative-scoring",
+                  "title": "创造性跑分",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "team-coordination",
+              "title": "团队配合",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "communication",
+                  "title": "沟通技巧",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "signal-system",
+                  "title": "信号系统",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "rapport-building",
+                  "title": "默契培养",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "risk-assessment",
+                  "title": "风险评估",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tactical-strategy",
+      "title": "战术策略",
+      "type": "category",
+      "children": [
+        {
+          "id": "team-tactics",
+          "title": "团队战术",
+          "type": "section",
+          "children": [
+            {
+              "id": "pre-match-preparation",
+              "title": "赛前准备",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "tactical-planning",
+                  "title": "战术计划制定",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "team-selection",
+                  "title": "阵容安排",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "mental-preparation",
+                  "title": "心理准备",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "ground-analysis",
+                  "title": "场地分析",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "match-management",
+              "title": "比赛管理",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "pace-control",
+                  "title": "节奏控制",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "substitution-strategy",
+                  "title": "换人策略",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "timeout-usage",
+                  "title": "暂停使用",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "pressure-management",
+                  "title": "压力管理",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "team-collaboration",
+              "title": "团队协作",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "on-field-communication",
+                  "title": "场上沟通",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "leadership",
+                  "title": "领导力发挥",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "support-system",
+                  "title": "支持系统",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "team-chemistry",
+                  "title": "团队化学反应",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "individual-tactics",
+          "title": "个人战术",
+          "type": "section",
+          "children": [
+            {
+              "id": "batsman-tactics",
+              "title": "击球手战术",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "opening-strategy",
+                  "title": "开局策略",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "middle-push",
+                  "title": "中期推进",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "finishing-skills",
+                  "title": "收尾技巧",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "adaptive-adjustment",
+                  "title": "适应性调整",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "bowler-tactics",
+              "title": "投球手战术",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "bowling-plan",
+                  "title": "投球计划",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "variation-usage",
+                  "title": "变化球运用",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "mental-tactics",
+                  "title": "心理战术",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "fitness-management",
+                  "title": "体能管理",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "fielder-tactics",
+              "title": "守备员战术",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "position-selection",
+                  "title": "位置选择",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "anticipation",
+                  "title": "预判能力",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "reaction-speed",
+                  "title": "反应速度",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "creative-defense",
+                  "title": "创造性防守",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "match-management",
+          "title": "比赛管理",
+          "type": "section",
+          "children": [
+            {
+              "id": "situation-analysis",
+              "title": "局况分析",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "scoring-analysis",
+                  "title": "得分分析",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "run-control",
+                  "title": "失分控制",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "resource-management",
+                  "title": "资源管理",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "risk-assessment",
+                  "title": "风险评估",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "tactical-adjustment",
+              "title": "战术调整",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "real-time-adjustment",
+                  "title": "实时调整",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "response-strategy",
+                  "title": "应对策略",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "innovative-tactics",
+                  "title": "创新战术",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "mental-battle",
+                  "title": "心理博弈",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "key-decisions",
+              "title": "关键决策",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "challenge-system",
+                  "title": "挑战系统使用",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "tactical-timeout",
+                  "title": "战术暂停",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "team-adjustment",
+                  "title": "阵容调整",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "pressure-release",
+                  "title": "压力释放",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "psychological-tactics",
+          "title": "心理战术",
+          "type": "section",
+          "children": [
+            {
+              "id": "pressure-application",
+              "title": "压力施加",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "pace-control",
+                  "title": "节奏控制",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "body-language",
+                  "title": "身体语言",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "on-field-performance",
+                  "title": "场上表现",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "sustained-pressure",
+                  "title": "持续施压",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "psychological-defense",
+              "title": "心理防御",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "pressure-resistance",
+                  "title": "抗压能力",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "focus-maintenance",
+                  "title": "专注力保持",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "emotion-control",
+                  "title": "情绪控制",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "confidence-building",
+                  "title": "自信建立",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "team-psychology",
+              "title": "团队心理",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "team-cohesion",
+                  "title": "团队凝聚力",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "mutual-support",
+                  "title": "相互支持",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "common-goals",
+                  "title": "共同目标",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "positive-atmosphere",
+                  "title": "积极氛围",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "training-methods",
+      "title": "训练方法",
+      "type": "category",
+      "children": [
+        {
+          "id": "basic-training",
+          "title": "基础训练",
+          "type": "section",
+          "children": [
+            {
+              "id": "technical-training",
+              "title": "技术训练",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "batting-basic-training",
+                  "title": "击球基础训练",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "bowling-basic-training",
+                  "title": "投球基础训练",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "fielding-basic-training",
+                  "title": "守备基础训练",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "running-basic-training",
+                  "title": "跑动基础训练",
+                  "type": "content",
+                  "level": "beginner"
+                }
+              ]
+            },
+            {
+              "id": "fitness-training",
+              "title": "体能训练",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "strength-training",
+                  "title": "力量训练",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "endurance-training",
+                  "title": "耐力训练",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "flexibility-training",
+                  "title": "灵活性训练",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "coordination-training",
+                  "title": "协调性训练",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "tactical-training",
+              "title": "战术训练",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "individual-tactical-training",
+                  "title": "个人战术训练",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "team-tactical-training",
+                  "title": "团队战术训练",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "match-simulation",
+                  "title": "比赛模拟",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "decision-training",
+                  "title": "决策训练",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "specialized-training",
+          "title": "专项训练",
+          "type": "section",
+          "children": [
+            {
+              "id": "batting-specialized",
+              "title": "击球专项",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "specific-ball-training",
+                  "title": "特定球路训练",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "pressure-batting",
+                  "title": "压力下击球",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "creative-batting",
+                  "title": "创造性击球",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "adaptive-training",
+                  "title": "适应性训练",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "bowling-specialized",
+              "title": "投球专项",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "variation-training",
+                  "title": "变化球训练",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "accuracy-training",
+                  "title": "准确性训练",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "endurance-bowling",
+                  "title": "耐力训练",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "tactical-bowling",
+                  "title": "战术投球",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "fielding-specialized",
+              "title": "守备专项",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "position-specialized",
+                  "title": "位置专项训练",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "reaction-training",
+                  "title": "反应训练",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "coordination-training",
+                  "title": "配合训练",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "advanced-fielding",
+                  "title": "高级守备",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "training-programs",
+          "title": "训练计划",
+          "type": "section",
+          "children": [
+            {
+              "id": "periodized-training",
+              "title": "周期化训练",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "annual-plan",
+                  "title": "年度计划",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "quarterly-plan",
+                  "title": "季度计划",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "monthly-plan",
+                  "title": "月度计划",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "weekly-plan",
+                  "title": "周计划",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "training-content",
+              "title": "训练内容安排",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "technical-ratio",
+                  "title": "技术训练比例",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "fitness-arrangement",
+                  "title": "体能训练安排",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "tactical-time",
+                  "title": "战术训练时间",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "rest-adjustment",
+                  "title": "休息调整",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "evaluation-adjustment",
+              "title": "评估与调整",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "skill-assessment",
+                  "title": "技能评估",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "fitness-testing",
+                  "title": "体能测试",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "tactical-understanding",
+                  "title": "战术理解",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "training-adjustment",
+                  "title": "训练调整",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "training-methods",
+          "title": "训练方法",
+          "type": "section",
+          "children": [
+            {
+              "id": "traditional-training",
+              "title": "传统训练",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "repetitive-practice",
+                  "title": "重复练习",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "decomposition-training",
+                  "title": "分解训练",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "complete-practice",
+                  "title": "完整练习",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "opposition-training",
+                  "title": "对抗训练",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "modern-training",
+              "title": "现代训练",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "video-analysis",
+                  "title": "视频分析",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "data-analysis",
+                  "title": "数据分析",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "technology-assistance",
+                  "title": "科技辅助",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "personalized-training",
+                  "title": "个性化训练",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "innovative-methods",
+              "title": "创新方法",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "gamified-training",
+                  "title": "游戏化训练",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "scenario-training",
+                  "title": "情景训练",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "psychological-training",
+                  "title": "心理训练",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "cross-training",
+                  "title": "跨界训练",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "psychological-tactics",
+      "title": "心理战术",
+      "type": "category",
+      "children": [
+        {
+          "id": "psychological-skills",
+          "title": "心理技能",
+          "type": "section",
+          "children": [
+            {
+              "id": "attention-focus",
+              "title": "注意力集中",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "focus-training",
+                  "title": "专注力训练",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "interference-resistance",
+                  "title": "干扰抵抗",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "attention-switching",
+                  "title": "注意力转换",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "sustained-focus",
+                  "title": "持续专注",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "confidence-building",
+              "title": "自信心建设",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "positive-self-talk",
+                  "title": "积极自我对话",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "success-experience",
+                  "title": "成功体验积累",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "goal-setting",
+                  "title": "目标设定",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "achievement-recognition",
+                  "title": "成就认可",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "motivation-activation",
+              "title": "动机激发",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "intrinsic-motivation",
+                  "title": "内在动机",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "external-motivation",
+                  "title": "外在激励",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "long-term-goals",
+                  "title": "长期目标",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "short-term-goals",
+                  "title": "短期目标",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "stress-management",
+          "title": "压力管理",
+          "type": "section",
+          "children": [
+            {
+              "id": "stress-identification",
+              "title": "压力识别",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "stress-source-analysis",
+                  "title": "压力源分析",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "stress-response",
+                  "title": "压力反应",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "stress-assessment",
+                  "title": "压力评估",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "stress-warning",
+                  "title": "压力预警",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "stress-coping",
+              "title": "压力应对",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "breathing-regulation",
+                  "title": "呼吸调节",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "muscle-relaxation",
+                  "title": "肌肉放松",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "mental-suggestion",
+                  "title": "心理暗示",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "behavioral-adjustment",
+                  "title": "行为调整",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "stress-transformation",
+              "title": "压力转化",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "positive-stress",
+                  "title": "积极压力",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "challenge-mindset",
+                  "title": "挑战心态",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "growth-mindset",
+                  "title": "成长思维",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "peak-performance",
+                  "title": "最佳表现",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "emotion-management",
+          "title": "情绪管理",
+          "type": "section",
+          "children": [
+            {
+              "id": "emotion-identification",
+              "title": "情绪识别",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "emotion-types",
+                  "title": "情绪类型",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "emotion-signals",
+                  "title": "情绪信号",
+                  "type": "content",
+                  "level": "beginner"
+                },
+                {
+                  "id": "emotion-intensity",
+                  "title": "情绪强度",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "emotion-duration",
+                  "title": "情绪持续时间",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "emotion-regulation",
+              "title": "情绪调节",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "emotion-expression",
+                  "title": "情绪表达",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "emotion-control",
+                  "title": "情绪控制",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "emotion-switching",
+                  "title": "情绪转换",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "emotion-release",
+                  "title": "情绪释放",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "positive-emotion",
+              "title": "积极情绪培养",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "joy-emotion",
+                  "title": "快乐情绪",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "excitement-emotion",
+                  "title": "兴奋情绪",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "satisfaction-emotion",
+                  "title": "满足情绪",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "achievement-emotion",
+                  "title": "成就情绪",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "communication-skills",
+          "title": "沟通技巧",
+          "type": "section",
+          "children": [
+            {
+              "id": "on-field-communication",
+              "title": "场上沟通",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "clear-expression",
+                  "title": "清晰表达",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "active-listening",
+                  "title": "积极倾听",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "non-verbal-communication",
+                  "title": "非语言沟通",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "timely-feedback",
+                  "title": "及时反馈",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "team-communication",
+              "title": "团队沟通",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "constructive-dialogue",
+                  "title": "建设性对话",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "conflict-resolution",
+                  "title": "冲突解决",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "collaborative-communication",
+                  "title": "协作沟通",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "motivational-communication",
+                  "title": "激励性沟通",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "leadership-communication",
+              "title": "领导沟通",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "instructional-communication",
+                  "title": "指导性沟通",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "encouraging-communication",
+                  "title": "鼓励性沟通",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "decision-communication",
+                  "title": "决策沟通",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "vision-communication",
+                  "title": "愿景沟通",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "match-management",
+      "title": "比赛管理",
+      "type": "category",
+      "children": [
+        {
+          "id": "pre-match-management",
+          "title": "比赛前管理",
+          "type": "section",
+          "children": [
+            {
+              "id": "tactical-preparation",
+              "title": "战术准备",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "opponent-analysis",
+                  "title": "对手分析",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "ground-analysis",
+                  "title": "场地分析",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "weather-analysis",
+                  "title": "天气分析",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "tactical-formulation",
+                  "title": "战术制定",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "team-selection",
+              "title": "阵容安排",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "starting-lineup",
+                  "title": "首发阵容",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "substitute-arrangement",
+                  "title": "替补安排",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "batting-order",
+                  "title": "击球顺序",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "bowling-arrangement",
+                  "title": "投球安排",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "mental-preparation",
+              "title": "心理准备",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "team-motivation",
+                  "title": "团队动员",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "individual-mental",
+                  "title": "个人心理",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "pressure-management",
+                  "title": "压力管理",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "confidence-building",
+                  "title": "信心建立",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "in-match-management",
+          "title": "比赛中管理",
+          "type": "section",
+          "children": [
+            {
+              "id": "real-time-monitoring",
+              "title": "实时监控",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "score-monitoring",
+                  "title": "比分监控",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "situation-analysis",
+                  "title": "局况分析",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "player-status",
+                  "title": "球员状态",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "tactical-effectiveness",
+                  "title": "战术效果",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "tactical-adjustment",
+              "title": "战术调整",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "substitution-decision",
+                  "title": "换人决策",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "tactical-change",
+                  "title": "战术变更",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "pace-adjustment",
+                  "title": "节奏调整",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "mental-adjustment",
+                  "title": "心理调整",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "communication-coordination",
+              "title": "沟通协调",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "on-field-communication",
+                  "title": "场上沟通",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "coach-communication",
+                  "title": "教练沟通",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "captain-coordination",
+                  "title": "队长协调",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "team-motivation",
+                  "title": "团队激励",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "post-match-management",
+          "title": "比赛后管理",
+          "type": "section",
+          "children": [
+            {
+              "id": "summary-analysis",
+              "title": "总结分析",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "tactical-execution",
+                  "title": "战术执行",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "individual-performance",
+                  "title": "个人表现",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "team-cooperation",
+                  "title": "团队配合",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "improvement-points",
+                  "title": "改进点",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            },
+            {
+              "id": "experience-accumulation",
+              "title": "经验积累",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "success-experience",
+                  "title": "成功经验",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "failure-lessons",
+                  "title": "失败教训",
+                  "type": "content",
+                  "level": "intermediate"
+                },
+                {
+                  "id": "key-decisions",
+                  "title": "关键决策",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "learning-points",
+                  "title": "学习要点",
+                  "type": "content",
+                  "level": "intermediate"
+                }
+              ]
+            },
+            {
+              "id": "future-planning",
+              "title": "后续规划",
+              "type": "subsection",
+              "children": [
+                {
+                  "id": "training-adjustment",
+                  "title": "训练调整",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "tactical-improvement",
+                  "title": "战术改进",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "player-development",
+                  "title": "人员发展",
+                  "type": "content",
+                  "level": "advanced"
+                },
+                {
+                  "id": "goal-adjustment",
+                  "title": "目标调整",
+                  "type": "content",
+                  "level": "advanced"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
